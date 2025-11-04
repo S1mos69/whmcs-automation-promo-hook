@@ -16,7 +16,7 @@
 
  *
 
- * @package   SimTech Web Solutions - WHMCS Hook
+ * @package   Sim-Tech - WHMCS Hook
 
  * @version   1.0.1
 
@@ -194,3 +194,4 @@ add_hook('CartTotalAdjustment', 1, function($vars) {
 
 
 ?>
+
